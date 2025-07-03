@@ -1,0 +1,187 @@
+$date
+	Thu Jul  3 19:48:13 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module counter_tb $end
+$var wire 8 ! tout [7:0] $end
+$var reg 1 " tclk $end
+$var reg 1 # tenb $end
+$var reg 1 $ tload $end
+$var reg 1 % tload_data $end
+$var reg 1 & tmode $end
+$var reg 1 ' trst $end
+$scope module DUT $end
+$var wire 1 " clk $end
+$var wire 1 # enb $end
+$var wire 1 $ load $end
+$var wire 1 % load_data $end
+$var wire 1 & mode $end
+$var wire 1 ' rst $end
+$var reg 8 ( out [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx (
+0'
+0&
+0%
+0$
+0#
+0"
+bx !
+$end
+#5
+1"
+#10
+0"
+1'
+#15
+b0 !
+b0 (
+1"
+#20
+0"
+0'
+#25
+1"
+#30
+0"
+1$
+1#
+#35
+1"
+#40
+0"
+1&
+0$
+#45
+b1 !
+b1 (
+1"
+#50
+0"
+#55
+b10 !
+b10 (
+1"
+#60
+0"
+#65
+b11 !
+b11 (
+1"
+#70
+0"
+#75
+b100 !
+b100 (
+1"
+#80
+0"
+#85
+b101 !
+b101 (
+1"
+#90
+0"
+0&
+#95
+b100 !
+b100 (
+1"
+#100
+0"
+#105
+b11 !
+b11 (
+1"
+#110
+0"
+#115
+b10 !
+b10 (
+1"
+#120
+0"
+#125
+b1 !
+b1 (
+1"
+#130
+0"
+#135
+b0 !
+b0 (
+1"
+#140
+0"
+#145
+b11111111 !
+b11111111 (
+1"
+#150
+0"
+#155
+b11111110 !
+b11111110 (
+1"
+#160
+0"
+#165
+b11111101 !
+b11111101 (
+1"
+#170
+0"
+#175
+b11111100 !
+b11111100 (
+1"
+#180
+0"
+#185
+b11111011 !
+b11111011 (
+1"
+#190
+0"
+#195
+b11111010 !
+b11111010 (
+1"
+#200
+0"
+#205
+b11111001 !
+b11111001 (
+1"
+#210
+0"
+#215
+b11111000 !
+b11111000 (
+1"
+#220
+0"
+#225
+b11110111 !
+b11110111 (
+1"
+#230
+0"
+#235
+b11110110 !
+b11110110 (
+1"
+#240
+0"
